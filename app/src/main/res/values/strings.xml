@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="btn_Next">Siguiente</string>
+    <string name="text_desc">Descripción del contacto</string>
+    <string name="text_email">Email</string>
+    <string name="text_phone">Telefono</string>
+    <string name="text_name">Nombre completo</string>
+    <string name="btn_edit">Editar</string>
+    <string name="date_button_set">Seleccionar fecha</string>
+    <string name="fecha">12 / 01 / 2016</string>
+    <string name="text_fecha">Fecha de nacimiento</string>
+    <string name="tvConfirm">Confirmar datos</string>
+</resources>
